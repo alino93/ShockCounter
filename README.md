@@ -3,15 +3,16 @@ An IMU based shock counter project
 Implemented using Aruidno with a LED display
 
 
-<img src="https://user-images.githubusercontent.com/73147643/147190877-06863fa0-e5ff-42fa-83d2-dfe85a46bd76.jpg" height="300" />
+<img src="https://user-images.githubusercontent.com/73147643/147190877-06863fa0-e5ff-42fa-83d2-dfe85a46bd76.jpg" height="350" />
 
 Splash
 
-<img src="https://user-images.githubusercontent.com/73147643/147191557-ddce9309-451d-4dc6-8665-65fa096bd1a0.jpg" height="200" />
+<img src="https://user-images.githubusercontent.com/73147643/147191557-ddce9309-451d-4dc6-8665-65fa096bd1a0.jpg" height="100" />
 
 
 Setting Treshold
-<img src="https://user-images.githubusercontent.com/73147643/147191351-4b932a99-23f3-46d6-9c76-e667953d92cd.jpg" height="200" />
+
+<img src="https://user-images.githubusercontent.com/73147643/147191351-4b932a99-23f3-46d6-9c76-e667953d92cd.jpg" height="100" />
 
 
 Sample Device and Buttons
