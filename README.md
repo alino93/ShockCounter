@@ -20,10 +20,15 @@ Sample Device and Buttons
 <img src="https://user-images.githubusercontent.com/73147643/147191370-c525ebc0-16c0-494e-91bc-bad8de10bdc2.jpg" height="300" />
 
 R: Reset
+
 U: Up 
+
 D: D 
+
 M: Menu
+
 PD: Duration Setting 
+
 PT: Threshold Setting
 
 
